@@ -147,8 +147,11 @@ class Game extends React.Component {
 						shipTypes={Config.shipTypes}
 						shipHit={this.state.shipHit}
 					/>
-					<Reset />
+					<div className="reset-area">
+						<Reset />
+					</div>
 				</div>
+
 			</div>
 		)
 	}
