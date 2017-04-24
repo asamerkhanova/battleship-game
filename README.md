@@ -2,7 +2,7 @@
 
 ## About
 
-Welcome to ReactJS Battleship game implementation!
+Welcome to ReactJS/Redux Battleship game implementation!
 
 ## Play
 

@@ -1,4 +1,4 @@
-module.exports = {
+const config = {
   "boardSize": 10,
   "shipTypes": {
     "carrier": { "size": 5, "count": 1 },
@@ -15,3 +15,5 @@ module.exports = {
     { "ship": "destroyer", "positions": [[0, 0], [1, 0]] }
   ]
 };
+
+export default config;
